@@ -1,0 +1,10 @@
+var menu=
+'<h4><a href="index.html"> Что читать о природе сознания</a></h4>\
+  <p><a href="seeing.html"> Видеть при помощи слуха</a></p>\
+  <p><a href="deprivation.html"> Депривация</a></p>\
+  <p><a href="ps-seeing.html"> Зрительная система</a></p>\
+  <p><a href="ps-prior-awareness.html"> Психофизиология бессознательного</a></p>\
+  <p><a href="teaching.html"> Поощрение в дрессировке</a></p>\
+  <p><a href="krushinsky.html"> Экстраполяционный рефлекс</a></p>\
+  <p><a href="habituation.html"> Обучение каракатицы</a></p>\
+  <p><a href="memory.html"> Биология памяти</a></p>';
