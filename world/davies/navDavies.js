@@ -1,0 +1,16 @@
+var menu=
+'<h4><a href="index.html"> П.Девис, Суперсила</a></h4>\
+  <p><a href="superforce1.html"> 1. Вселенная раскрывает свои тайны</a></p>\
+  <p><a href="superforce2.html"> 2. Физика и крушение здравого смысла</a></p>\
+  <p><a href="superforce3.html"> 3. Действительность и мир квантов</a></p>\
+  <p><a href="superforce4.html"> 4. Симметрия и красота</a></p>\
+  <p><a href="superforce5.html"> 5. Четыре взаимодействия</a></p>\
+  <p><a href="superforce6.html"> 6. Мир субатомных частиц</a></p>\
+  <p><a href="superforce7.html"> 7. Укрощение бесконечности</a></p>\
+  <p><a href="superforce8.html"> 8. Великая троица</a></p>\
+  <p><a href="superforce9.html"> 9. Проблески суперсилы</a></p>\
+  <p><a href="superforce10.html"> 10. Мы в 11-мерном пространстве?</a></p>\
+  <p><a href="superforce11.html"> 11. Ископаемые космоса</a></p>\
+  <p><a href="superforce12.html"> 12. Чем вызван Большой взрыв?</a></p>\
+  <p><a href="superforce13.html"> 13. Единство Вселенной</a></p>\
+  <p><a href="superforce14.html"> 14. Существует ли космический план?</a></p>';
