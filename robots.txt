@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: /me/
-Disallow: *
+Disallow: 
 Host: https://cord70.github.io/cyber
