@@ -1,4 +1,4 @@
-//cord70.github.io/cyber
+// cord70.github.io/cyber
 
 //var googlecounter = 'UA-9493768-2';
 var googlecounter = 'G-KVPFGW8RWM';
