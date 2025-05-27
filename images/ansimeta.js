@@ -11,8 +11,6 @@ var title_en = 'Mechanisms<span class="hide-lt480px"> of Consciousness and Exist
 var logo = 'images/home.gif';
 
 
-
-
 function topmenu() {
     if (pagelang == 'ru') {
         var i1 = ' <a href="' + refpath + 'mind/index.html"> Природа сознания </a>';
@@ -46,7 +44,7 @@ function onLazyScroll() {
             s.src = 'https://www.googletagmanager.com/gtag/js?id=' + googlecounter;
             s.async = true;
             document.body.appendChild(s);
-        }, 500); // 500ms после scroll
+        }, 200); // 200ms после scroll
     }
 }
 addScrollEvent(onLazyScroll);
