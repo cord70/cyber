@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
  <head>
+   <script type="text/javascript"> // переход на ../index.html
+     var dir= "world";
+     var url= window.location.href;     
+     if(url.endsWith(dir)) url=url+"/"; 
+     if(url.endsWith(dir+"/")) {url=url+"index.html";  window.location.href = url; }
+   </script>
+
+  <meta charset="utf-8">
   <title> Происхождение вселенной </title>
   <meta content="Существование любого объекта обеспечивается какими-то причинами, а они - более глубокими причинами. Почему вообще что-то существует? А первопричина?" name="description">
   <meta content="беспричинность, большой взрыв, возникновение, исчерпаемость, неисчерпаемость, первопричина, познаваемость, причинность, пространство, самодостаточность, сложные задачи, физика, " name="keywords">
   <meta content="Евгений Корниенко" name="author">
-  <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="https://cord70.github.io/cyber/world/index.html" rel="canonical">
   <link href="https://cord70.github.io/cyber/favicon.svg" rel="icon" sizes="any" type="image/svg+xml">
