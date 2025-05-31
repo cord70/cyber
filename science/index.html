@@ -1,11 +1,18 @@
 <!DOCTYPE html>
 <html lang="ru">
  <head>
+   <script type="text/javascript"> // переход на ../index.html
+     var dir= "science";
+     var url= window.location.href;     
+     if(url.endsWith(dir)) url=url+"/"; 
+     if(url.endsWith(dir+"/")) {url=url+"index.html";  window.location.href = url; }
+   </script>
+
+  <meta charset="utf-8">
   <title> Переводы по физике. Нерешённые научные проблемы. </title>
   <meta content="Список самых вызывающих наиболее общих научных задач. Популярные статьи о науке." name="description">
   <meta content="вселенная, жизнь, интеллект, квантовая, механика, наука, популярная, происхождение, разум, техника, физика, эволюция, " name="keywords">
   <meta content="Евгений Корниенко" name="author">
-  <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <link href="https://cord70.github.io/cyber/science/index.html" rel="canonical">
   <link href="https://cord70.github.io/cyber/favicon.svg" rel="icon" sizes="any" type="image/svg+xml">
